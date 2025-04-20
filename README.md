@@ -1,3 +1,9 @@
+### Bu projeye dair apk, video ve diğer istenen belgelerle birlikte drive linkte mevcuttur: https://drive.google.com/file/d/1kQBsLp3R1rO6OZaJ7iMLmeC3HnL6bJmn/view?usp=sharing
+
+### TRELLO: https://trello.com/b/u4b0p1XW/ar-dunya-turu-kasif-akademisi
+
+
+
 # AR_DunyaTuru_KasifAkademisi
  Bu proje, AR Foundation kullanarak bir AR eğitim uygulaması geliştirmeyi amaçlayan bir AR uygulamasıdır. Uygulama, kullanıcıların ünlü dünya yapılarını (Eyfel Kulesi, vb.) artırılmış gerçeklik (AR) ortamında keşfetmelerini sağlar. Her yapı, üzerine tıklanarak bir bilgi kartı ile açıklanır ve kullanıcı her yapıyı keşfettikçe ödüller kazanır.
 
