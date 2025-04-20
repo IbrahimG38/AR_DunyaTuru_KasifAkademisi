@@ -32,7 +32,7 @@ Github reposunu bilgisayarınıza klonlayın:
 bash
 Kopyala
 Düzenle
-git clone 
+git clone https://github.com/IbrahimG38/AR_DunyaTuru_KasifAkademisi
 
 # Adım 2: Unity Projesini Açın
 Unity Hub'ı açın ve AR-Dunya-Turu klasörünü seçerek projeyi açın.
